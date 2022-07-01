@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack and Software Development**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/jesselam00?tab=repositories)
+- 👨‍💻 All of my projects are available right [here](https://github.com/jesselam00?tab=repositories)
 
 - 💬 Chat with me on Discord **Jesse#0204**
 
