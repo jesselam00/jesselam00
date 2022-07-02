@@ -11,9 +11,9 @@
 
 - 💬 Chat with me on Discord **Jesse#0204**
 
-- 📫 How to reach me **jesselam2000@gmail.com**
+- 📫 Email me at **jesselam2000@gmail.com**
 
-- ⚡ Fun fact **I love building custom mechanical keyboards!**
+- ⚡ Fun fact: **I love building custom mechanical keyboards!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
