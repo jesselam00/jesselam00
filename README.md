@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesselam00&label=Profile%20views&color=0e75b6&style=flat" alt="jesselam00" /> </p>
 
-- 🔭 I’m currently working on [Harvard's CS50x 2022](https://cs50.harvard.edu/x/2022/) and [The Odin Project's Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails?)
+- 🔭 I’m currently working on [Harvard's CS50x](https://cs50.harvard.edu/x/2022/) and [The Odin Project's Ruby on Rails](https://www.theodinproject.com/paths)
 
 - 🌱 I’m currently learning **Full Stack and Software Development**
 
