@@ -19,7 +19,7 @@
 
 ✅ Finished: [The Odin Project](https://www.theodinproject.com/paths)
 
-👉 Up next: [Full Stack Open](https://fullstackopen.com/en/), [Java MOOC](https://java-programming.mooc.fi/)
+👉 Up next: [Java MOOC](https://java-programming.mooc.fi/), [Full Stack Open](https://fullstackopen.com/en/), [React Native](https://www.udemy.com/course/react-native-the-practical-guide/#reviews)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
