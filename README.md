@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesselam00&label=Profile%20views&color=0e75b6&style=flat" alt="jesselam00" /> </p>
 
+- 🎓 I'm currently an undergrad at The University of Alabama at Birmingham
+
 - 🔭 I’m currently working on [Harvard's CS50x](https://cs50.harvard.edu/x/2022/)
 
 - 🌱 I’m currently learning **Full Stack and Software Development**
@@ -14,6 +16,10 @@
 - 📫 Email me at **jesselam2000@gmail.com**
 
 - ⚡ Fun fact: **I love building custom mechanical keyboards!**
+
+- ✅ Finished: [The Odin Project](https://www.theodinproject.com/paths)
+
+- 👉 Up next: [Full Stack Open](https://fullstackopen.com/en/), [Java MOOC](https://java-programming.mooc.fi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
