@@ -19,6 +19,8 @@
 
 ✅ Finished: [The Odin Project](https://www.theodinproject.com/paths)
 
+🏫 Classes Taken: OOP, Software Engineering, Mobile App Dev, Web Dev, Networking
+
 👉 Up next: [Full Stack Open](https://fullstackopen.com/en/), [Java MOOC](https://java-programming.mooc.fi/)
 
 <h3 align="left">Connect with me:</h3>
