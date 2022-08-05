@@ -5,7 +5,7 @@
 
 🎓 I'm currently an undergrad at **The University of Alabama at Birmingham**
 
-🔭 I’m currently working on [Harvard's CS50x](https://cs50.harvard.edu/x/2022/)
+🔭 I’m currently working on [Java MOOC](https://java-programming.mooc.fi/)
 
 🌱 I’m currently learning **Full Stack and Software Development**
 
@@ -17,9 +17,9 @@
 
 ⚡ Fun fact: **I love building custom mechanical keyboards!**
 
-✅ Finished: [The Odin Project](https://www.theodinproject.com/paths)
+✅ Finished: [The Odin Project](https://www.theodinproject.com/paths), [Harvard's CS50x](https://cs50.harvard.edu/x/2022/)
 
-👉 Up next: [Java MOOC](https://java-programming.mooc.fi/), [Full Stack Open](https://fullstackopen.com/en/), [React Native](https://www.udemy.com/course/react-native-the-practical-guide/#reviews)
+👉 Up next: [Full Stack Open](https://fullstackopen.com/en/), [React Native](https://www.udemy.com/course/react-native-the-practical-guide/#reviews)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
