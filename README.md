@@ -11,9 +11,9 @@
 
 👨‍💻 All of my projects are available right [here](https://github.com/jesselam00?tab=repositories)
 
-💬 Chat with me on Discord **jesselam**
+💬 Chat with me on Discord: **jesselam**
 
-📫 Email me at **jesselam2000@gmail.com**
+📫 Email me: **jesselam2000@gmail.com**
 
 ⚡ Fun fact: **I love building custom mechanical keyboards!**
 
