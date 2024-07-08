@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesselam00&label=Profile%20views&color=0e75b6&style=flat" alt="jesselam00" /> </p>
 
-🎓 I'm currently an undergrad at **The University of Alabama at Birmingham**
+🎓 I graduated from **The University of Alabama at Birmingham** in Computer Science and Communication Management
 
 🔭 I’m currently working on [Full Stack Open](https://fullstackopen.com/en/)
 
@@ -11,7 +11,7 @@
 
 👨‍💻 All of my projects are available right [here](https://github.com/jesselam00?tab=repositories)
 
-💬 Chat with me on Discord **Jesse#0204**
+💬 Chat with me on Discord **jesselam**
 
 📫 Email me at **jesselam2000@gmail.com**
 
