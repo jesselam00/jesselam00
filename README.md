@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesse</h1>
-<h3 align="center">A young passionate Full Stack Developer from Birmingham, Alabama!</h3>
+<h3 align="center">Full Stack Developer from Minneapolis, Minnesota</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesselam00&label=Profile%20views&color=0e75b6&style=flat" alt="jesselam00" /> </p>
 
