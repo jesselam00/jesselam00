@@ -5,9 +5,9 @@
 
 🎓 I graduated from **The University of Alabama at Birmingham** in Computer Science and Communication Management
 
-🔭 I’m currently working on [Full Stack Open](https://fullstackopen.com/en/)
+🔭 I’m currently working on [Boot.Dev](https://www.boot.dev/)
 
-🌱 I’m currently learning **Full Stack and Software Development**
+🌱 I’m currently learning **Back End Development**
 
 👨‍💻 All of my projects are available right [here](https://github.com/jesselam00?tab=repositories)
 
@@ -18,8 +18,6 @@
 ⚡ Fun fact: **I love building custom mechanical keyboards!**
 
 ✅ Finished: [The Odin Project](https://www.theodinproject.com/paths), [Harvard's CS50x](https://cs50.harvard.edu/x/2022/), [Java MOOC](https://java-programming.mooc.fi/)
-
-👉 Up next: [React Native](https://www.udemy.com/course/react-native-the-practical-guide/#reviews)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
